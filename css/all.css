@@ -4357,7 +4357,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-brand {
   float: left;
-  height: 50px;
+  height: 75px;
   padding: 15px 15px;
   font-size: 18px;
   line-height: 20px;
@@ -11814,7 +11814,7 @@ p + .wp-caption.alignleft {
 
     .navbar > .op-container .navbar-brand,
     .navbar > .container-fluid .navbar-brand {
-        max-width: 250px;
+        max-width: 300px;
     }
 
     .navbar .navbar-brand img {
@@ -11845,7 +11845,7 @@ p + .wp-caption.alignleft {
 
     .navbar-center {
         margin: 0;
-        max-width: 200px;
+        max-width: 300px;
     }
 
     .op-related-articles-grid-row .box-item {

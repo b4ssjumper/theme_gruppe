@@ -13,7 +13,9 @@
                         <a class="navbar-brand" href="<?php echo esc_url(home_url('/')); ?>">
                             <?php op_logo(); ?>
                         </a>
-
+            <!--            <button type="button" class="navbar-toggle collapsed glyphicon glyphicon-menu-hamburger" aria-controls="navbar">
+                            <span class="sr-only"><?php _ex('Toggle navigation', 'Content', 'op3_smart'); ?></span>
+                        </button> -->
                     </div> <!--/.navbar-header -->
                     <div id="navbar" class="pull-right navbar-menu">
                         <div class="nav-close-wrap text-right ">
