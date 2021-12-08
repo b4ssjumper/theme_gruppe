@@ -12,8 +12,7 @@
                             <?php op_footer_logo(); ?>
                         </div>
                         <div class="col-sm-12 footer-copyright">
-                            <?php op_footer_copyright(); ?>
-                            <?php op_footer_powered_by(); ?>
+
                         </div>
                     </div>
                 </div>
