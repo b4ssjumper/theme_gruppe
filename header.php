@@ -13,7 +13,7 @@
     <div id="page" class="page-container hfeed site">
         <a class="skip-link screen-reader-text" href="#content"><?php echo esc_html_x('Skip to content', 'Content', 'op3_smart'); ?></a>
         <header id="masthead" class="site-header"  itemscope="itemscope" itemtype="http://schema.org/WPHeader" role="banner">
-            
+            <nav class="<?php op_navbar_class(); ?>" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
                 <?php get_template_part('template-parts/header/header', op_get_header_template()); ?>
             </nav>
         </header>
