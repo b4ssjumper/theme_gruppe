@@ -7128,7 +7128,7 @@ body.modal-open #wpadminbar {
     height: auto;
     max-height: 50px;
     width: auto;
-    max-width: 220px;
+    max-width: 250px;
     transition: all .2s ease;
     /*image-rendering: -webkit-optimize-contrast;*/
     /*image-rendering: crisp-edges;*/
@@ -11814,7 +11814,7 @@ p + .wp-caption.alignleft {
 
     .navbar > .op-container .navbar-brand,
     .navbar > .container-fluid .navbar-brand {
-        max-width: 180px;
+        max-width: 250px;
     }
 
     .navbar .navbar-brand img {
