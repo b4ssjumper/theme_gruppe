@@ -10,7 +10,7 @@
 
 global $op_options;
 
-$hero_alignment = $op_options['homepage_hero_design'] === 'standard' ? 'op-homepage-hero-' . $op_options['homepage_hero_alignment'] : '';
+$hero_alignment = $op_options['homepage_hero_design'] === 'copy' ? 'op-homepage-hero-' . $op_options['homepage_hero_alignment'] : '';
 ?>
 
 <div class="op-hero-area op-homepage-hero-area">
