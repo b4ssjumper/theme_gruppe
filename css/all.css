@@ -12039,7 +12039,13 @@ p + .wp-caption.alignleft {
  *WP FORM
 */
 
-div.wpforms-container-full
+.wpforms-container-full
 .wpforms-form h3 {
   font-size: 100px;
+}
+
+div.wpforms-container-full .wpforms-form .wpforms-field-description, div.wpforms-container-full .wpforms-form .wpforms-field-limit-text {
+  font-size: 120px;
+  line-height: 1.3;
+  margin: 8px 0 0 0;
 }
