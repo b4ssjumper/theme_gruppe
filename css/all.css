@@ -12034,3 +12034,10 @@ p + .wp-caption.alignleft {
 .grecaptcha-badge {
     display: none;
 }
+
+
+.wpforms-field-description {
+  font-size: 20px;
+  line-height: 1.3;
+  margin: 8px 0 0 0;
+}
